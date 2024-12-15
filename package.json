@@ -1,0 +1,14 @@
+{
+  "name": "pdfparser",
+  "version": "1.0.0",
+  "description": "parse pdf of past questions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jotsamikael",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
